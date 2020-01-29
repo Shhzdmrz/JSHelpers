@@ -1,0 +1,13 @@
+{
+  "name": "testjs",
+  "version": "1.0.0",
+  "description": "testing different library",
+  "main": "app.js",
+  "repository": "https://github.com/shhzdmrz/jshelpers.git",
+  "author": "Shahzad Mughal",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}

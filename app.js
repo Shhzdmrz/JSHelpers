@@ -87,7 +87,7 @@ let param = '24.487989,54.395085';//BBIS
 // let param = '30.194846, 71.468969';//Multan inner city
 // let param = '30.233913, 71.472326';//North gulghast colony
 // let param = '30.224337, 71.474840';//Gulghast Colony
-let apiKey = 'AIzaSyCGO2ORkn1GJgPIZBcT1HuOQ-r7bu9ZMD8';
+let apiKey = 'Your Google API Key';
 
 getGeocodingData = async () => {
   try {
